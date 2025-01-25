@@ -1,4 +1,8 @@
 # broka
+
+![Yeni Proje](https://github.com/user-attachments/assets/2e42fb80-39fc-48ca-9eaf-be6ef16907f0)
+
+
 Backend API And UI for managing Kafka clusters, built with .NET Minimal API. It includes custom JWT authentication, role-based access control, and a modular architecture for easy scalability.
 
 
